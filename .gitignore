@@ -1,0 +1,5 @@
+.env
+.venv/
+ledger.db
+__pycache__/
+*.py[cod]
