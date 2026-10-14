@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "P001",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is 17 + 28? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 45,
+    "rubric": null
+  },
+  {
+    "id": "P002",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "test",
+    "prompt": "What is 84 - 37? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 47,
+    "rubric": null
+  },
+  {
+    "id": "P003",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "What is 16 multiplied by 9? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 144,
+    "rubric": null
+  },
+  {
+    "id": "P004",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is 144 divided by 12? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 12,
+    "rubric": null
+  },
+  {
+    "id": "P005",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "test",
+    "prompt": "What is 25% of 240? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 60,
+    "rubric": null
+  },
+  {
+    "id": "P006",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is the next number in the sequence 2, 4, 6, 8? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 10,
+    "rubric": null
+  },
+  {
+    "id": "P007",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "test",
+    "prompt": "How many minutes are in 3 hours? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 180,
+    "rubric": null
+  },
+  {
+    "id": "P008",
+    "category": "quantitative_reasoning",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is 12 squared? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 144,
+    "rubric": null
+  },
+  {
+    "id": "P009",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "A box has 18 pens. How many pens are in 7 identical boxes? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 126,
+    "rubric": null
+  },
+  {
+    "id": "P010",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "A rectangle is 12 cm long and 7 cm wide. What is its area in square centimeters? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 84,
+    "rubric": null
+  },
+  {
+    "id": "P011",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "A shirt costs 800 rupees and has a 15% discount. What is the final price in rupees? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 680,
+    "rubric": null
+  },
+  {
+    "id": "P012",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "Solve for x: 3x + 7 = 31. Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 8,
+    "rubric": null
+  },
+  {
+    "id": "P013",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "The mean of 6, 10, 14, and 18 is what number? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 12,
+    "rubric": null
+  },
+  {
+    "id": "P014",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "A car travels 180 km in 3 hours. What is its average speed in km/h? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 60,
+    "rubric": null
+  },
+  {
+    "id": "P015",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "What is the least common multiple of 12 and 18? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 36,
+    "rubric": null
+  },
+  {
+    "id": "P016",
+    "category": "quantitative_reasoning",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "What is the greatest common divisor of 84 and 126? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 42,
+    "rubric": null
+  },
+  {
+    "id": "P017",
+    "category": "quantitative_reasoning",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Two trains start from the same place. One leaves at 3:00 PM at 60 km/h; the second leaves at 4:00 PM at 80 km/h. Give the clock hour (24-hour format integer) when the second catches the first. Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 19,
+    "rubric": null
+  },
+  {
+    "id": "P018",
+    "category": "quantitative_reasoning",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "A sum doubles in 5 years with simple interest. What is the annual simple interest rate, expressed as an integer percent? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 20,
+    "rubric": null
+  },
+  {
+    "id": "P019",
+    "category": "quantitative_reasoning",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Find the number of unique permutations of the letters in LEVEL. Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 30,
+    "rubric": null
+  },
+  {
+    "id": "P020",
+    "category": "quantitative_reasoning",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "A three-digit integer has hundreds digit 3, its tens digit is twice its units digit, and its digits sum to 9. What is the integer? Respond with only the integer.",
+    "evaluation_type": "numeric",
+    "reference_answer": 342,
+    "rubric": null
+  },
+  {
+    "id": "P021",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is the capital of France? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Paris",
+    "rubric": null
+  },
+  {
+    "id": "P022",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Which planet is known as the Red Planet? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Mars",
+    "rubric": null
+  },
+  {
+    "id": "P023",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is the chemical symbol for gold? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Au",
+    "rubric": null
+  },
+  {
+    "id": "P024",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "How many sides does a hexagon have? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "6",
+    "rubric": null
+  },
+  {
+    "id": "P025",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is the largest ocean on Earth? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Pacific Ocean",
+    "rubric": null
+  },
+  {
+    "id": "P026",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "What is the binary representation of decimal 5? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "101",
+    "rubric": null
+  },
+  {
+    "id": "P027",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Which data structure follows FIFO order? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "queue",
+    "rubric": null
+  },
+  {
+    "id": "P028",
+    "category": "factual_knowledge",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "What does CPU stand for? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Central Processing Unit",
+    "rubric": null
+  },
+  {
+    "id": "P029",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Which OSI layer handles routing of IP packets? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Network layer",
+    "rubric": null
+  },
+  {
+    "id": "P030",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Which HTTP status code indicates Not Found? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "404",
+    "rubric": null
+  },
+  {
+    "id": "P031",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "In SQL, which keyword removes duplicate rows in a SELECT result? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "DISTINCT",
+    "rubric": null
+  },
+  {
+    "id": "P032",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "Which port is the default for HTTPS? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "443",
+    "rubric": null
+  },
+  {
+    "id": "P033",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "What does ACID stand for in database transactions? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Atomicity, Consistency, Isolation, Durability",
+    "rubric": null
+  },
+  {
+    "id": "P034",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "What is the time complexity of binary search on a sorted array? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "O(log n)",
+    "rubric": null
+  },
+  {
+    "id": "P035",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Which protocol translates domain names to IP addresses? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "DNS",
+    "rubric": null
+  },
+  {
+    "id": "P036",
+    "category": "factual_knowledge",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Which standard Git command creates a new branch called feature from the current commit? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "git branch feature",
+    "rubric": null
+  },
+  {
+    "id": "P037",
+    "category": "factual_knowledge",
+    "difficulty": "hard",
+    "split": "dev",
+    "prompt": "What is the maximum number of edges in a simple undirected graph with 9 vertices? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "36",
+    "rubric": null
+  },
+  {
+    "id": "P038",
+    "category": "factual_knowledge",
+    "difficulty": "hard",
+    "split": "dev",
+    "prompt": "In a B-tree of minimum degree 3, what is the maximum number of keys in one node? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "5",
+    "rubric": null
+  },
+  {
+    "id": "P039",
+    "category": "factual_knowledge",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "For IPv4 subnet prefix /27, how many total addresses are in the block? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "32",
+    "rubric": null
+  },
+  {
+    "id": "P040",
+    "category": "factual_knowledge",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Which normal form removes partial dependency of non-prime attributes on a proper subset of a candidate key? Answer with only the requested term or value.",
+    "evaluation_type": "exact",
+    "reference_answer": "2NF",
+    "rubric": null
+  },
+  {
+    "id": "P041",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "Extract the order ID from: \"Order ORD-4821 shipped on Monday.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "ORD-4821",
+    "rubric": null
+  },
+  {
+    "id": "P042",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Extract the email address from: \"Write to help@acme.test for support.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "help@acme.test",
+    "rubric": null
+  },
+  {
+    "id": "P043",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Extract the 4-digit PIN from: \"PIN: 3074; do not share.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "3074",
+    "rubric": null
+  },
+  {
+    "id": "P044",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Extract the uppercase country code from: \"Country code: IN; language: en.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "IN",
+    "rubric": null
+  },
+  {
+    "id": "P045",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "test",
+    "prompt": "Extract the ticket number from: \"Ticket #71345 is closed.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "71345",
+    "rubric": null
+  },
+  {
+    "id": "P046",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Extract the date in YYYY-MM-DD from: \"Due 2026-11-03 at noon.\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "2026-11-03",
+    "rubric": null
+  },
+  {
+    "id": "P047",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "Extract the product SKU from: \"SKU=WX-77-B; QTY=2\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "WX-77-B",
+    "rubric": null
+  },
+  {
+    "id": "P048",
+    "category": "information_extraction",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Extract the city name from: \"Name: Arun; City: Pune; State: Maharashtra\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "Pune",
+    "rubric": null
+  },
+  {
+    "id": "P049",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Extract the second IP address from: \"Nodes: 10.0.0.2, 10.0.0.3, 10.0.0.5\" Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "10.0.0.3",
+    "rubric": null
+  },
+  {
+    "id": "P050",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "From \"a=12,b=9,c=15\", extract the value of b. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "9",
+    "rubric": null
+  },
+  {
+    "id": "P051",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "In \"latency_p50=140ms latency_p95=620ms\", extract only the p95 latency as a number without units. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "620",
+    "rubric": null
+  },
+  {
+    "id": "P052",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "In \"alice:admin; bob:viewer; carol:editor\", extract the role of carol. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "editor",
+    "rubric": null
+  },
+  {
+    "id": "P053",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "In \"Jan=18, Feb=27, Mar=11\", extract the value for February. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "27",
+    "rubric": null
+  },
+  {
+    "id": "P054",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "From the JSON string {\"user\":{\"name\":\"Mira\",\"level\":4}}, extract the level value. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "4",
+    "rubric": null
+  },
+  {
+    "id": "P055",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "From \"host=db.internal;port=5432;ssl=true\", extract the port number. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "5432",
+    "rubric": null
+  },
+  {
+    "id": "P056",
+    "category": "information_extraction",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Extract the currency code from \"amount=1250.00; currency=INR; paid=true\". Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "INR",
+    "rubric": null
+  },
+  {
+    "id": "P057",
+    "category": "information_extraction",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "From \"primary=api-a:8080;secondary=api-b:9090;timeout=30\", extract the port used by the secondary. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "9090",
+    "rubric": null
+  },
+  {
+    "id": "P058",
+    "category": "information_extraction",
+    "difficulty": "hard",
+    "split": "test",
+    "prompt": "Extract the third value from \"scores=[12,7,19,3,5]\". Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "19",
+    "rubric": null
+  },
+  {
+    "id": "P059",
+    "category": "information_extraction",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "From \"services=[{name:auth,port:8001},{name:billing,port:8002}]\", extract the port for billing. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "8002",
+    "rubric": null
+  },
+  {
+    "id": "P060",
+    "category": "information_extraction",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "From \"users=7;errors=2;success=5;regions=3\", extract the value for the number of successes. Return only the extracted value.",
+    "evaluation_type": "exact",
+    "reference_answer": "5",
+    "rubric": null
+  },
+  {
+    "id": "P061",
+    "category": "code_generation",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Write a Python function is_even(n) that returns whether an integer is even.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct modulo check, returns bool, works for negative integers."
+  },
+  {
+    "id": "P062",
+    "category": "code_generation",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "Write a Python function reverse_text(s) that returns s reversed.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct reversed output including empty and Unicode strings."
+  },
+  {
+    "id": "P063",
+    "category": "code_generation",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Write a Python function max_of_three(a,b,c) without built-in max.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct comparisons including equal values."
+  },
+  {
+    "id": "P064",
+    "category": "code_generation",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Write Python code to count vowels in a string, case-insensitively.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Counts a/e/i/o/u without double counting; handles empty string."
+  },
+  {
+    "id": "P065",
+    "category": "code_generation",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Implement a Python function to compute factorial iteratively for nonnegative integers.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Produces 1 for zero; correct iterative product; reasonable invalid-input handling."
+  },
+  {
+    "id": "P066",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Implement binary search on a sorted Python list. Return the index of target or -1.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct boundaries, terminates, handles empty array, returns valid index."
+  },
+  {
+    "id": "P067",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Write a Python function that determines whether parentheses in a string are balanced.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct stack/counter logic and rejects premature closing; only parentheses required."
+  },
+  {
+    "id": "P068",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Write Python code to merge two sorted integer lists into one sorted list in linear time.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Two-pointer method; preserves duplicates; O(n+m) time."
+  },
+  {
+    "id": "P069",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Implement a Python function to remove duplicates from a list while preserving order.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct stable order and duplicates handling."
+  },
+  {
+    "id": "P070",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "Implement breadth-first search for a graph represented as an adjacency list.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Queue, visited set, avoids cycles; returns traversal order."
+  },
+  {
+    "id": "P071",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Write a Python function to find the first non-repeating character in a string.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct frequency computation; preserves original order; sensible no-match value."
+  },
+  {
+    "id": "P072",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Write a Python context manager that opens a text file and always closes it.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Uses with statement or contextmanager correctly and closes on exceptions."
+  },
+  {
+    "id": "P073",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Implement an LRU cache in Python supporting get and put with capacity 3.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct recency updates, eviction, and missing-key behavior."
+  },
+  {
+    "id": "P074",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Write a function that detects a cycle in a directed graph using DFS.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Three-state visitation or equivalent; handles disconnected graphs."
+  },
+  {
+    "id": "P075",
+    "category": "code_generation",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Implement a token-bucket rate limiter in Python with time-based refill.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Tracks elapsed time, caps capacity, deducts only allowed cost."
+  },
+  {
+    "id": "P076",
+    "category": "code_generation",
+    "difficulty": "hard",
+    "split": "dev",
+    "prompt": "Debug a Python producer-consumer implementation that can deadlock because it acquires two locks in inconsistent order. Explain the fix.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Identifies inconsistent lock ordering and proposes consistent ordering; no unsupported guarantees."
+  },
+  {
+    "id": "P077",
+    "category": "code_generation",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Design a thread-safe bounded queue in Python with blocking enqueue/dequeue operations.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Synchronization protects invariants, blocks appropriately, signals waiting threads."
+  },
+  {
+    "id": "P078",
+    "category": "code_generation",
+    "difficulty": "hard",
+    "split": "dev",
+    "prompt": "Implement a retry decorator in Python with exponential backoff and bounded attempts; avoid retrying nontransient errors.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Bounded retries, exponential delays, configurable transient errors, rethrows final failure."
+  },
+  {
+    "id": "P079",
+    "category": "code_generation",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Given an async Python HTTP client, show how to limit concurrent requests to 5 using asyncio.Semaphore.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Semaphore used around awaited request; concurrency cap actually enforced."
+  },
+  {
+    "id": "P080",
+    "category": "code_generation",
+    "difficulty": "hard",
+    "split": "test",
+    "prompt": "Implement Dijkstra shortest paths for nonnegative weighted directed graphs with a priority queue.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct distance relaxation, heap usage, disconnected nodes, nonnegative weights caveat."
+  },
+  {
+    "id": "P081",
+    "category": "explanation_summarization",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "In two sentences, explain how DNS resolves a domain name to an IP address.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Mentions resolver lookup/caching and DNS records/nameserver responses; two clear sentences."
+  },
+  {
+    "id": "P082",
+    "category": "explanation_summarization",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "Explain the difference between HTTP GET and POST with one example each.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Explains semantics and suitable examples, notes POST is not automatically secure."
+  },
+  {
+    "id": "P083",
+    "category": "explanation_summarization",
+    "difficulty": "easy",
+    "split": "dev",
+    "prompt": "Summarize: \"The garden committee planted native trees to provide shade, reduce erosion, and encourage birds. Volunteers watered saplings weekly for two months.\" Use one sentence.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Keeps planting native trees, intended benefits, and volunteer watering; one sentence."
+  },
+  {
+    "id": "P084",
+    "category": "explanation_summarization",
+    "difficulty": "easy",
+    "split": "train",
+    "prompt": "Explain in plain language what an LLM token is.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Tokens are model processing units, not necessarily words; concise example."
+  },
+  {
+    "id": "P085",
+    "category": "explanation_summarization",
+    "difficulty": "easy",
+    "split": "test",
+    "prompt": "Explain why a stack follows LIFO with a concrete example.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Identifies last-in-first-out and a consistent illustrative example."
+  },
+  {
+    "id": "P086",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Compare Go-Back-N and Selective Repeat ARQ in terms of retransmission and receiver buffering.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct distinction: Go-Back-N re-sends suffix, SR selectively retries; receiver out-of-order buffering differs."
+  },
+  {
+    "id": "P087",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Explain why an API gateway should handle provider timeouts and retries differently.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Timeout bounds duration; retry is conditional second attempt; avoid unbounded or unsafe retries."
+  },
+  {
+    "id": "P088",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Summarize: \"In a three-month pilot, requests rose from 500 to 750 per day. Average response latency fell from 700 ms to 560 ms after caching, but the cache returned six stale answers.\" State both the benefit and risk.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Includes 50% volume increase, latency drop, and stale answer risk without claiming causality beyond given text."
+  },
+  {
+    "id": "P089",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Explain the differences between precision and recall using spam detection.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Correct TP/FP/FN notions and practical spam example."
+  },
+  {
+    "id": "P090",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Describe how retrieval-augmented generation differs from fine-tuning.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Explains runtime document retrieval/context vs parameter updates and when each helps."
+  },
+  {
+    "id": "P091",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "Explain why output tokens can cost more than input tokens in hosted LLM APIs.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Mentions autoregressive sequential generation vs prompt prefill and that pricing is provider-specific."
+  },
+  {
+    "id": "P092",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Explain why a semantic cache can return an incorrect answer for two similar-looking questions.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Distinguishes surface similarity from answer equivalence with illustrative example."
+  },
+  {
+    "id": "P093",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "train",
+    "prompt": "Describe how a circuit breaker differs from a rate limiter in a gateway.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Breaker protects from failing upstream; limiter regulates request flow; states/triggers."
+  },
+  {
+    "id": "P094",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "dev",
+    "prompt": "Explain the tradeoff between a small LLM and a larger LLM for a latency-sensitive chatbot.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Balances cost, latency, quality, request mix, and measuring rather than assuming."
+  },
+  {
+    "id": "P095",
+    "category": "explanation_summarization",
+    "difficulty": "medium",
+    "split": "test",
+    "prompt": "Explain train, validation, and test splits for a supervised model router.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Separates training, threshold tuning, and final held-out testing; avoids leakage."
+  },
+  {
+    "id": "P096",
+    "category": "explanation_summarization",
+    "difficulty": "hard",
+    "split": "test",
+    "prompt": "Give a concrete counterexample showing why selecting the longest answer as best can fail for LLM evaluation.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Presents a clear concise correct answer vs long inaccurate answer and explains verbosity bias."
+  },
+  {
+    "id": "P097",
+    "category": "explanation_summarization",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Propose a fair experiment comparing always-small, always-strong, and rule-based routing on 100 prompts.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Same prompts/settings, independent quality, cost/latency, correct routing reconciliation, paired comparison."
+  },
+  {
+    "id": "P098",
+    "category": "explanation_summarization",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Explain why using an LLM to judge its own generated answer can introduce bias and give two mitigations.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Identifies self-preference and concrete mitigations such as blind judging, independent checks, human audit."
+  },
+  {
+    "id": "P099",
+    "category": "explanation_summarization",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "A router lowers cost but quality drops on multilingual prompts. Explain how to diagnose and address this without leaking test data.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Uses disaggregated subgroup analysis, train/dev remediation, held-out test untouched."
+  },
+  {
+    "id": "P100",
+    "category": "explanation_summarization",
+    "difficulty": "hard",
+    "split": "train",
+    "prompt": "Explain why a cheap-first cascade might cost more than always using a large model, using an escalation-rate argument.",
+    "evaluation_type": "rubric",
+    "reference_answer": null,
+    "rubric": "Includes paid initial call/judge plus strong call on escalation and compares expected costs."
+  }
+]

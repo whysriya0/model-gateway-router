@@ -3,6 +3,8 @@ import uuid
 import json
 from dotenv import load_dotenv
 
+from app.router import route_request
+
 load_dotenv()
 
 import httpx
@@ -24,9 +26,17 @@ MODELS = {
 def pick_model(req: ChatRequest) -> str:
     if req.model in MODELS:
         return MODELS[req.model]
+
     if req.model == "auto":
-        return MODELS["small"]      # placeholder: the router replaces this later
-    return req.model                # client named an exact model
+        decision = route_request(req)
+
+        print("Routing decision:", decision.model)
+        print("Difficulty score:", decision.score)
+        print("Reasons:", decision.reasons)
+
+        return MODELS[decision.model]
+
+    return req.model
 
 @app.post("/v1/chat/completions")
 async def chat(req: ChatRequest):
